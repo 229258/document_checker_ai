@@ -1,0 +1,10 @@
+fastapi==0.78.0
+uvicorn==0.17.6
+pydantic==1.9.1
+docutils==0.18.1
+country_converter==0.7.4
+babel==2.9.1
+python-multipart==0.0.5
+pymongo[tls,srv]==4.1.1
+dnspython==2.2.1
+numpy==1.21.5
